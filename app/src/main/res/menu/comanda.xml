@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_item"
+        android:title="Adicionar"
+        android:icon="@drawable/plus_circle_outline" />
+    <item android:id="@+id/finish"
+        android:iconTint="@color/colorPrimary"
+
+        android:title="Fechar"
+        android:icon="@drawable/file_plus" />
+
+</menu>
